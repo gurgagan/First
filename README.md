@@ -1,2 +1,4 @@
 # First
-My first repository for learning 
+HELLO GITHUB
+
+GAGAN here, i am new to github .
